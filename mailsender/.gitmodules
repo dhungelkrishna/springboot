@@ -1,0 +1,3 @@
+[submodule "simple-email"]
+	path = simple-email
+	url = https://github.com/dhungelkrishna/springboot.git
