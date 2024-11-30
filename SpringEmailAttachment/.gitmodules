@@ -1,0 +1,3 @@
+[submodule "email-with-attachment"]
+	path = email-with-attachment
+	url = https://github.com/dhungelkrishna/springboot.git
